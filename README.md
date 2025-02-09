@@ -1,10 +1,8 @@
-# Hi there, I'm Sondos ElSayed! 👋
+# Hi there, I'm Sondos ElSayed! 
 
 ## 🚀 About Me
-I'm a **Data Analyst** with strong analytical and problem-solving skills. I have experience in:
-- 📊 **Data Analysis & Visualization**: Power BI, Tableau, Excel
-- 🛢️ **Database Management & SQL**: Writing complex queries, optimizing databases
-- 🐍 **Python & Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+I am a **Computer Science Graduate (2022)** with **2 years of frontend development experience**. Now, I am passionately transitioning into **Data Analysis**, learning **Python, Power BI, and SQL** with hands-on experience in data analysis, visualization, and reporting. I specialize in building interactive dashboards and leveraging data to drive business strategies. My goal is to transform raw data into meaningful insights that support decision-making and business growth.
+
 
 ## 🛠 Skills
 
@@ -25,7 +23,7 @@ I'm a **Data Analyst** with strong analytical and problem-solving skills. I have
 - **Skills**: Responsive web design, UI/UX development
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/sondos-elsayed-a56787249/))  
+- [LinkedIn](https://www.linkedin.com/in/sondos-elsayed-a56787249/)
 - [GitHub](https://github.com/SundusElSayed)  
 - Email: sunduselsayed@gmail.com
 
